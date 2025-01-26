@@ -1,0 +1,8 @@
+pytest==6.2.5
+allure-pytest==2.9.45
+robotframework
+robotframework-seleniumlibrary
+webdriver-manager
+robotframework-pabot
+robotframework-browser
+selenium
